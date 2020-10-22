@@ -16,7 +16,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![RactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react-native)
   ![Nextjs](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-  ![AntDesign](https://img.shields.io/badge/-AntDesign.js-333333?style=flat&logo=ant-design)
+  ![AntDesign](https://img.shields.io/badge/-AntDesign-333333?style=flat&logo=ant-design)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
   ![Angular](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=angular.js)
