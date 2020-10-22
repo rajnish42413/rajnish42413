@@ -1,6 +1,5 @@
 <h2> Hey there! I'm Rajnish Singh.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🤔 &nbsp; I am a Full-stack Mobile and Web Developer
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🤔 &nbsp; I’m currently learning Flutter and MicroServices .
