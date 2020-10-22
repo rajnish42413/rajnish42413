@@ -29,8 +29,8 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - 🌐 &nbsp;
-   ![AWS](http://img.shields.io/badge/-4285F4?style=flat&logo=aws-cloud&logoColor=white)
-   ![Google Cloud](http://img.shields.io/badge/-4285F4?style=flat&logo=google-cloud&logoColor=white)
+   ![AWS](http://img.shields.io/badge/-AWS-4285F4?style=flat&logo=aws-cloud&logoColor=white)
+   ![Google Cloud](http://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
