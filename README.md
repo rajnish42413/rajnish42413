@@ -14,7 +14,7 @@
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![RactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
+  ![RactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react-native)
   ![Nextjs](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![AntDesign](https://img.shields.io/badge/-AntDesign.js-333333?style=flat&logo=ant-design)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
@@ -33,7 +33,8 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime Text 3](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Sublime Text 3](https://img.shields.io/badge/-Sublime%20Text%203-333333?style=flat&logo=sublime-code)
+  ![Brackets](https://img.shields.io/badge/-Brackets-333333?style=flat&logo=backets)
 
 <br/>
 
