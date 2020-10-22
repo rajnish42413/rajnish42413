@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🤔 &nbsp; I am a Full-stack Mobile and Web Developer
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🤔 &nbsp; I’m currently learning <img src="https://img.shields.io/badge/Flutter?style=flat-square&logo=flutter">  and <img src="https://img.shields.io/badge/MicroServices?style=flat-square&logo=microservices">
+- 🤔 &nbsp; I’m currently learning Flutter and MicroServices .
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
