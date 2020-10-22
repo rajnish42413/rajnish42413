@@ -56,7 +56,6 @@
 <a href="https://www.instagram.com/rajnish42413/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rajnish42413-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:rajnish42413@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rajnish42413@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-<br />
+<!-- <br />
 ⭐️ From [rajnish42413](https://github.com/rajnish42413)
-Inspired from [Anuraj](https://github.com/anuraghazra)
+Inspired from [Anuraj](https://github.com/anuraghazra) --> 
