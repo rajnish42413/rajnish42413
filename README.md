@@ -2,7 +2,8 @@
 
 - 🤔 &nbsp; I am a Full-stack Mobile and Web Developer
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🤔 &nbsp; I’m currently learning Flutter and MicroServices .
+- 🎓 &nbsp; I’m currently learning Flutter and MicroServices .
+- 🎓 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -32,6 +33,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Sublime Text 3](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
 
